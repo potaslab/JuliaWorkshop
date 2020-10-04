@@ -27,3 +27,10 @@ C:\Users\userprofile\AppData\Local\Programs\Julia 1.5.2\bin\julia.exe
 
 Ensure that it correctly points to the Julia.exe as shown above. 
 
+# Exercise: 
+Find the number of events evoked in the first 25 ms for the 8th trail under two different bandpass filtering conditions, using a detection threshold of 3 standard deviations above background activity: 
+
+• 300 - 5000 Hz
+• 1000 - 2000 Hz
+
+Plot these two filtered signals on a single figure, showing the detection threshold and identified peaks above threshold. Ensure your figure is fully labelled (x and y axes, figure legend and title etc).
